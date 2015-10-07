@@ -5,7 +5,7 @@
 
 1. 說明 git clone, git pull, git checkout 差異。
  
-1. git clone：Clone a repository into a new directory
+ git clone：Clone a repository into a new directory
 2. git pull：Fetch from and integrate with another repository or a local branch
 3. git checkout：Checkout a branch or paths to the working tree
 
